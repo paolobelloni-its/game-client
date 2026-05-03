@@ -14,4 +14,4 @@ La VM garantisce la connessione verso un server (posto nella sottorete 172.20.12
 
 6. Il container termina selezionata la risposta corretta.  
 
-Il gioco consinste nel rispondere ad una domanda: vince chi risponde per primo!
+Il gioco consiste nel rispondere ad una domanda: vince chi risponde per primo!
