@@ -6,7 +6,7 @@ La VM garantisce la connessione verso un server (posto nella sottorete 172.20.12
 
 1. Scaricare dal sito 'https://storage.to/c/HxwJ6BLDt' in una sola cartella locale i 3 file della VM in formato OVF (.ovf .vmdk .mf).  
 
-2. Su host client ESXi installare la VM, configurando la connettivita' per raggiungere la sottorete 172.20.125.0/24.
+2. Su host client ESXi installare la VM, configurando la connettivita' per raggiungere la sottorete 172.20.125.0/24.Username = root, password = root.  
 3. Verificare che la VM abbia indirizzo IP appartenente alla sottorete, quindi 172.20.125.X.
 
 4. Sulla VM e' presente una cartella 'game-client' ed e' gia disponibile l'immagine Docker del client del gioco.  
